@@ -1,0 +1,26 @@
+  <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-6">
+                <div class="image-wrapper">
+                    <a href="./gallery/2.jpg"><img src="./gallery/2.jpg" alt="Mobirise Website Builder"></a>
+                    
+                </div>
+            </div>
+            <div class="col-12 col-lg-6">
+                <div class="image-wrapper">
+                   <a href="./gallery/3.jpg"><img src="./gallery/3.jpg" alt="Mobirise Website Builder"></a>
+                    
+                </div>
+            </div>
+        </div>
+	 <div class="row">
+      
+            <div class="col-12 col-lg-6">
+                <div class="image-wrapper">
+                   <a href="./gallery/1.jpg"><img src="./gallery/1.jpg" alt="Mobirise Website Builder"></a>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
